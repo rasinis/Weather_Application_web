@@ -20,3 +20,7 @@ Contributions are welcome! Please feel free to fork the repository and create pu
 
 ## License
 This project is licensed under the MIT License.
+## Watch the Demo
+You can watch a demo of the project here:
+
+[Watch Demo on Google Drive](https://drive.google.com/file/d/1gdm0o19d7w3-rFZM7aUQcCvnKRgcM-3l/view?usp=drive_link)
